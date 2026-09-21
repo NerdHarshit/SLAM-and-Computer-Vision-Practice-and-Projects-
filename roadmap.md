@@ -14,7 +14,7 @@ The eventual target is **internship-level practical CV ability**, including clas
 
 ---
 
-# Current Progress — Stage 0 / Existing Foundation
+# Current Progress — Stage 0 + stage 1 completed with project 1 done (document scanner) / Existing Foundation
 
 The user has already practiced:
 
@@ -88,7 +88,8 @@ This should be reinforced throughout the journey.
 
 # 🛣️ Five-Stage CV Roadmap
 
-## STAGE 1 — Classical OpenCV Foundation
+## STAGE 1 — Classical OpenCV Foundation 
+## This stage has been completed as of 21-9-26 that is today and its project that is document scanner is ready (althoug it definately needs fine tuning however that is the task of the user to perfect it and will be done by user on his own later) SO now proceed with stage 2!!
 
 **Goal:** Build a strong practical OpenCV toolbox before moving into deep-learning CV.
 
@@ -623,6 +624,6 @@ and
 
 ### Starting point for the fresh chat
 
-**Resume at Stage 1 → Thresholding and Segmentation.**
+**Resume at Stage 2.Stage 1 is considered complete.**
 
-Do not restart OpenCV from scratch and do not repeat the dinosaur project.
+Do not restart OpenCV from scratch and do not repeat the dinosaur project or the document scanner.
